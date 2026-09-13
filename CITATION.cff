@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the associated article."
+title: "Versioned Neuro-Symbolic MRTA Reproducibility Package"
+type: software
+version: 1.0.0
+date-released: 2026-08-29
+authors:
+  - family-names: Gong
+    given-names: Shengshuo
+    orcid: "https://orcid.org/0000-0001-6177-7989"
+  - family-names: Varlamov
+    given-names: Oleg O.
+    orcid: "https://orcid.org/0000-0002-6081-3076"
+repository-code: "REPOSITORY_URL_TO_BE_ADDED_AFTER_UPLOAD"
